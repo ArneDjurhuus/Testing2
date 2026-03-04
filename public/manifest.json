@@ -1,0 +1,31 @@
+{
+  "short_name": "Pixel Notes",
+  "name": "Pixel Notes - Note Taking App",
+  "description": "A modern note-taking app optimized for Google Pixel 10 Pro",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#6750A4",
+  "background_color": "#1C1B1F",
+  "categories": ["productivity", "utilities"],
+  "screenshots": []
+}
